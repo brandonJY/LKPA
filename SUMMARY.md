@@ -12,7 +12,7 @@ Summary
 * [1.7 Linux内核中链表的实现及应用](第一章/section1_7.md)
 * [1.8 小结](第一章/section1_8.md)
 * [习题](第一章/exercise.md)
-* [2 内存寻址](第二章.md)
+* [2 内存寻址](第二章/introduction.md)
 * [2.1 内存寻址](第二章/section2_1.md)
 * [2.2 段机制](第二章/section2_2.md)
 * [2.3 分页机制](第二章/section2_3.md)
